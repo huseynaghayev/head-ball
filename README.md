@@ -10,7 +10,9 @@ itch.io link is [here](https://cflexer.itch.io/goofy-heads).
 
 ![](photos/1.png)
 ![](photos/2.png)
+![](photos/15.png)
 ![](photos/3.png)
+![](photos/16.png)
 ![](photos/4.png)
 ![](photos/5.png)
 ![](photos/6.png)
